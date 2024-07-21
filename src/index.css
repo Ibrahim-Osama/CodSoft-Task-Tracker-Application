@@ -1,0 +1,21 @@
+body
+{
+    background-image: url(./assets/33.png);
+    background-position: center center;
+    background-size: cover;
+   
+}
+.lighty
+{
+    color: lightgreen;
+}
+.line
+{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    height: 10px;
+    width: 100%;
+    opacity: .5;
+    
+}
